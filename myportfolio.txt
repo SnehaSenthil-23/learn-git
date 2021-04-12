@@ -1,2 +1,6 @@
 Hello, this is Sneha S! :)
+<<<<<<< Upstream, based on master
 Hellow!!
+=======
+Hola!
+>>>>>>> c1b9917 New branch commit

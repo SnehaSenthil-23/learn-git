@@ -1,6 +1,2 @@
 Hello, this is Sneha S! :)
-<<<<<<< HEAD
-=======
-Hellow!!
->>>>>>> refs/heads/newbranch
-Hola!!
+Hellow!

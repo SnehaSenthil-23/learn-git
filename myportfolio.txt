@@ -1,10 +1,3 @@
 Hello, this is Sneha S! :)
-<<<<<<< Upstream, based on master
-<<<<<<< Upstream, based on master
 Hellow!!
-=======
-Hola!
->>>>>>> c1b9917 New branch commit
-=======
 Hola!!
->>>>>>> 572a9ca New branch commit 02
